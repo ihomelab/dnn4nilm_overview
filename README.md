@@ -2,7 +2,7 @@
 
 This repo contains data and code that has been used for the publication
 "Review on Deep Neural Networks applied to Low-Frequency NILM" submitted @ MDPI
-- Energies. (The full reference should (hopefully) be added in close future.) 
+Energies. (The full reference should (hopefully) be added in close future.) 
 
 This work is a considerable extension of the presentation "DNN for NILM on low
 frequency Data" that has been done at the NILM workshop 2019. You can find the
