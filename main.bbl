@@ -37,6 +37,15 @@ Salani, M.; Derboni, M.; Rivola, D.; Medici, V.; Nespoli, L.; Rosato, F.;
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1186/s42162-020-00128-2}{\detokenize{10.1186/s42162-020-00128-2}}}.
 
+\bibitem[{\c C}imen \em{et~al.}(2020){\c C}imen, {\c C}etinkaya, Vasquez, and
+  Guerrero]{cimen2020b}
+{\c C}imen, H.; {\c C}etinkaya, N.; Vasquez, J.C.; Guerrero, J.M.
+\newblock A {{Microgrid Energy Management System}} Based on {{Non}}-{{Intrusive
+  Load Monitoring}} via {{Multitask Learning}}.
+\newblock {\em IEEE Transactions on Smart Grid} {\bf 2020}, pp. 1--1.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TSG.2020.3027491}{\detokenize{10.1109/TSG.2020.3027491}}}.
+
 \bibitem[Gupta \em{et~al.}(2010)Gupta, Reynolds, and Patel]{gupta2010}
 Gupta, S.; Reynolds, M.S.; Patel, S.N.
 \newblock {{ElectriSense}}: {{Single}}-Point {{Sensing Using EMI}} for
@@ -98,13 +107,14 @@ Tabatabaei, S.M.; Dick, S.; Xu, W.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TSG.2016.2584581}{\detokenize{10.1109/TSG.2016.2584581}}}.
 
-\bibitem[Kelly and Knottenbelt(2015)]{kelly2015}
+\bibitem[Kelly and Knottenbelt(2015)]{kelly2015b}
 Kelly, J.; Knottenbelt, W.
 \newblock Neural {{NILM}}: {{Deep Neural Networks Applied}} to {{Energy
   Disaggregation}}.
-\newblock {\em arXiv:1507.06594 [cs]} {\bf 2015}, pp. 55--64,
-  \href{http://xxx.lanl.gov/abs/1507.06594}{{\normalfont
-  [arXiv:cs/1507.06594]}}.
+\newblock  Proceedings of the 2nd {{ACM International Conference}} on
+  {{Embedded Systems}} for {{Energy}}-{{Efficient Built Environments}};
+  {Association for Computing Machinery}: {New York, NY, USA},  2015;
+  {{BuildSys}} '15, pp. 55--64.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/2821650.2821672}{\detokenize{10.1145/2821650.2821672}}}.
 
@@ -279,7 +289,7 @@ Chollet, F.
 
 \bibitem[Chollet(2015)]{chollet2015}
 Chollet, F.
-\newblock Keras,  2015.
+\newblock Keras: The {{Python}} Deep Learning {{API}},  2015.
 
 \bibitem[Shin \em{et~al.}(2019)Shin, Lee, Han, Yim, Rhee, and Lee]{shin2019}
 Shin, C.; Lee, E.; Han, J.; Yim, J.; Rhee, W.; Lee, H.
@@ -388,6 +398,8 @@ Murray, D.; Stankovic, L.; Stankovic, V.
 \newblock An Electrical Load Measurements Dataset of {{United Kingdom}}
   Households from a Two-Year Longitudinal Study.
 \newblock {\em Scientific data} {\bf 2017}, {\em 4},~160122.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1038/sdata.2016.122}{\detokenize{10.1038/sdata.2016.122}}}.
 
 \bibitem[Parson \em{et~al.}(2015)Parson, Fisher, Hersey, Batra, Kelly, Singh,
   Knottenbelt, and Rogers]{parson2015}
@@ -428,7 +440,8 @@ Zimmermann, J.P.; Evans, M.; Griggs, J.; King, N.; Harding, L.; Roberts, P.;
   Evans, C.
 \newblock Household {{Electricity Survey}}: {{A}} Study of Domestic Electrical
   Product Usage.
-\newblock {\em Intertek Testing \& Certification Ltd} {\bf 2012}, pp. 213--214.
+\newblock {\em Intertek Testing \& Certification Ltd} {\bf 2012}, {\em Intertek
+  Report R66141},~600.
 
 \bibitem[Martins \em{et~al.}(2018)Martins, Nascimento, {de Freitas},
   {Bittencourt e Silva}, and Guimar{\~a}es Duarte~Pinto]{martins2018a}
@@ -480,7 +493,29 @@ Murray, D.; Stankovic, L.; Stankovic, V.; Lulic, S.; Sladojevic, S.
 Kyrkou, L.; Nalmpantis, C.; Vrakas, D.
 \newblock Imaging Time-Series for {{Nilm}}.
 \newblock  International {{Conference}} on {{Engineering Applications}} of
-  {{Neural Networks}}. {Springer},  2019, pp. 188--196.
+  {{Neural Networks}}; {Springer}: {Xersonisos, Greece},  2019; pp. 188--196.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/978-3-030-20257-6_16}{\detokenize{10.1007/978-3-030-20257-6_16}}}.
+
+\bibitem[Kaselimi \em{et~al.}(2020)Kaselimi, Doulamis, Voulodimos,
+  Protopapadakis, and Doulamis]{kaselimi2020a}
+Kaselimi, M.; Doulamis, N.; Voulodimos, A.; Protopapadakis, E.; Doulamis, A.
+\newblock Context {{Aware Energy Disaggregation Using Adaptive Bidirectional
+  LSTM Models}}.
+\newblock {\em IEEE Transactions on Smart Grid} {\bf 2020}, {\em
+  11},~3054--3067.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TSG.2020.2974347}{\detokenize{10.1109/TSG.2020.2974347}}}.
+
+\bibitem[Ahmed \em{et~al.}(2020)Ahmed, Zhang, and Eliassen]{ahmed2020a}
+Ahmed, A.M.A.; Zhang, Y.; Eliassen, F.
+\newblock Generative {{Adversarial Networks}} and {{Transfer Learning}} for
+  {{Non}}-{{Intrusive Load Monitoring}} in {{Smart Grids}}.
+\newblock  2020 {{IEEE International Conference}} on {{Communications}},
+  {{Control}}, and {{Computing Technologies}} for {{Smart Grids}}
+  ({{SmartGridComm}}); {IEEE}: {Tempe, AZ, USA},  2020; pp. 1--7.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/SmartGridComm47815.2020.9302933}{\detokenize{10.1109/SmartGridComm47815.2020.9302933}}}.
 
 \bibitem[Jia \em{et~al.}(2019)Jia, Batra, Wang, and Whitehouse]{jia2019}
 Jia, Y.; Batra, N.; Wang, H.; Whitehouse, K.
@@ -555,8 +590,30 @@ Davies, P.; Dennis, J.; Hansom, J.; Martin, W.; Stankevicius, A.; Ward, L.
 \bibitem[Murray \em{et~al.}(2020)Murray, Stankovic, and Stankovic]{murray2020}
 Murray, D.; Stankovic, L.; Stankovic, V.
 \newblock Explainable {{NILM Networks}}.
-\newblock  5th {{International Workshop}} on {{Non Intrusive Load Monitoring}};
-  ,  2020.
+\newblock  Proceedings of the 5th {{International Workshop}} on
+  {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 64--69.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427855}{\detokenize{10.1145/3427771.3427855}}}.
+
+\bibitem[Ayub and {El-Alfy}(2020)]{ayub2020}
+Ayub, M.; {El-Alfy}, E.S.M.
+\newblock Impact of {{Normalization}} on {{BiLSTM Based Models}} for {{Energy
+  Disaggregation}}.
+\newblock  2020 {{International Conference}} on {{Data Analytics}} for
+  {{Business}} and {{Industry}}: {{Way Towards}} a {{Sustainable Economy}}
+  ({{ICDABI}}),  2020, pp. 1--6.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/ICDABI51230.2020.9325593}{\detokenize{10.1109/ICDABI51230.2020.9325593}}}.
+
+\bibitem[Delfosse \em{et~al.}(2020)Delfosse, {lien}, Hebrail, and
+  Zerroug]{delfosse2020}
+Delfosse, A.; {lien}.; Hebrail, G.; Zerroug, A.
+\newblock Deep {{Learning Applied}} to {{NILM}}: {{Is Data Augmentation Worth}}
+  for {{Energy Disaggregation}}?
+\newblock {\em ECAI 2020} {\bf 2020}, pp. 2972--2977.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3233/FAIA200471}{\detokenize{10.3233/FAIA200471}}}.
 
 \bibitem[Pan \em{et~al.}(2020)Pan, Liu, Shen, Cai, and Jia]{pan2020}
 Pan, Y.; Liu, K.; Shen, Z.; Cai, X.; Jia, Z.
@@ -595,7 +652,7 @@ Bao, K.; Ibrahimov, K.; Wagner, M.; Schmeck, H.
 \bibitem[Chen \em{et~al.}(2018)Chen, Wang, He, Chen, Hu, and He]{chen2018b}
 Chen, K.; Wang, Q.; He, Z.; Chen, K.; Hu, J.; He, J.
 \newblock Convolutional {{Sequence}} to {{Sequence Non}}-Intrusive {{Load
-  Monitoring}}.
+  Monitoring}} ({{arXiv Version}}).
 \newblock {\em arXiv:1806.02078 [cs, stat]} {\bf 2018},
   \href{http://xxx.lanl.gov/abs/1806.02078}{{\normalfont [arXiv:cs,
   stat/1806.02078]}}.
@@ -670,6 +727,35 @@ Garcia, F.C.C.; Creayla, C.M.C.; Macabebe, E.Q.B.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.procs.2017.01.218}{\detokenize{10.1016/j.procs.2017.01.218}}}.
 
+\bibitem[Chang and Ho(2019)]{chang2019}
+Chang, F.Y.; Ho, W.J.
+\newblock An {{Analysis}} of {{Semi}}-{{Supervised Learning Approaches}} in
+  {{Low}}-{{Rate Energy Disaggregation}}.
+\newblock  2019 3rd {{International Conference}} on {{Smart Grid}} and {{Smart
+  Cities}} ({{ICSGSC}}),  2019, pp. 145--150.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/ICSGSC.2019.000-4}{\detokenize{10.1109/ICSGSC.2019.000-4}}}.
+
+\bibitem[Cui \em{et~al.}(2019)Cui, Liu, Luan, and Yu]{cui2019}
+Cui, G.; Liu, B.; Luan, W.; Yu, Y.
+\newblock Estimation of {{Target Appliance Electricity Consumption Using
+  Background Filtering}}.
+\newblock {\em IEEE Transactions on Smart Grid} {\bf 2019}, {\em
+  10},~5920--5929.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TSG.2019.2892841}{\detokenize{10.1109/TSG.2019.2892841}}}.
+
+\bibitem[Reynaud \em{et~al.}(2017)Reynaud, Haradji, Semp{\'e}, and
+  Sabouret]{reynaud2017}
+Reynaud, Q.; Haradji, Y.; Semp{\'e}, F.; Sabouret, N.
+\newblock Using {{Time Use Surveys}} in {{Multi Agent}} Based {{Simulations}}
+  of {{Human Activity}}.
+\newblock  Proceedings of the 9th {{International Conference}} on {{Agents}}
+  and {{Artificial Intelligence}}; {SCITEPRESS - Science and Technology
+  Publications}: {Porto, Portugal},  2017; Vol.~1, pp. 67--77.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.5220/0006189100670077}{\detokenize{10.5220/0006189100670077}}}.
+
 \bibitem[Harell \em{et~al.}(2019)Harell, Makonin, and Baji{\'c}]{harell2019}
 Harell, A.; Makonin, S.; Baji{\'c}, I.V.
 \newblock Wavenilm: {{A}} Causal Neural Network for Power Disaggregation from
@@ -677,6 +763,15 @@ Harell, A.; Makonin, S.; Baji{\'c}, I.V.
 \newblock {\em arXiv:1902.08736 [eess]} {\bf 2019},
   \href{http://xxx.lanl.gov/abs/1902.08736}{{\normalfont
   [arXiv:eess/1902.08736]}}.
+
+\bibitem[Kundu \em{et~al.}(2018)Kundu, Juvekar, and Davis]{kundu2018}
+Kundu, A.; Juvekar, G.P.; Davis, K.
+\newblock Deep {{Neural Network Based Non}}-{{Intrusive Load Status
+  Recognition}}.
+\newblock  2018 {{Clemson University Power Systems Conference}} ({{PSC}}),
+  2018, pp. 1--6.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/PSC.2018.8664063}{\detokenize{10.1109/PSC.2018.8664063}}}.
 
 \bibitem[Hosseini \em{et~al.}(2019)Hosseini, Henao, Kelouwani, Agbossou, and
   Cardenas]{hosseini2019a}
@@ -711,7 +806,7 @@ Reinhardt, A.; Bouchur, M.
   {{NILM}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
   {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
-  {New York, NY, USA},  2020; {{NILM}}'20, pp. 75--78.
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 75--78.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427857}{\detokenize{10.1145/3427771.3427857}}}.
 
@@ -731,20 +826,23 @@ Wang, Z.; Oates, T.
 \newblock Encoding Time Series as Images for Visual Inspection and
   Classification Using Tiled Convolutional Neural Networks.
 \newblock  Workshops at the Twenty-Ninth {{AAAI}} Conference on Artificial
-  Intelligence,  2015, Vol.~1.
+  Intelligence; {AAAI Publications}: {Austin, Texas, USA},  2015; Vol.~1.
 
-\bibitem[Eckmann \em{et~al.}(1995)Eckmann, Kamphorst, and Ruelle]{eckmann1995}
+\bibitem[Eckmann \em{et~al.}(1987)Eckmann, Kamphorst, and Ruelle]{eckmann1995}
 Eckmann, J.P.; Kamphorst, S.O.; Ruelle, D.
-\newblock Recurrence Plots of Dynamical Systems.
-\newblock {\em World Scientific Series on Nonlinear Science Series A} {\bf
-  1995}, {\em 16},~441--446.
+\newblock Recurrence {{Plots}} of {{Dynamical Systems}}.
+\newblock {\em Europhysics Letters (EPL)} {\bf 1987}, {\em 4},~973--977.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1209/0295-5075/4/9/004}{\detokenize{10.1209/0295-5075/4/9/004}}}.
 
 \bibitem[{de Paiva Penha} and Castro(2017)]{depaivapenha2017}
 {de Paiva Penha}, D.; Castro, A.R.G.
 \newblock Convolutional Neural Network Applied to the Identification of
   Residential Equipment in Non-Intrusive Load Monitoring Systems.
-\newblock  3rd {{International Conference}} on {{Artificial Intelligence}} and
-  {{Applications}},  2017, pp. 11--21.
+\newblock  Computer {{Science}} \& {{Information Technology}}, {{CSCP}} 2017.
+  {AIRCC Digital Library},  2017, pp. 11--21.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.5121/csit.2017.71802}{\detokenize{10.5121/csit.2017.71802}}}.
 
 \bibitem[{de Paiva Penha} and Castro(2018)]{depaivapenha2018}
 {de Paiva Penha}, D.; Castro, A.R.G.
@@ -814,12 +912,15 @@ van~den Oord, A.; Dieleman, S.; Zen, H.; Simonyan, K.; Vinyals, O.; Graves, A.;
   \href{http://xxx.lanl.gov/abs/1609.03499}{{\normalfont
   [arXiv:cs/1609.03499]}}.
 
-\bibitem[Yue \em{et~al.}(2020)Yue, Witzig, Jorde, and Jacobsen]{yue2020}
+\bibitem[Yue \em{et~al.}(18.11. 2020)Yue, Witzig, Jorde, and Jacobsen]{yue2020}
 Yue, Z.; Witzig, C.R.; Jorde, D.; Jacobsen, H.A.
 \newblock {{BERT4NILM}}: {{A Bidirectional Transformer Model}} for
   {{Non}}-{{Intrusive Load Monitoring}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
-  {{Non}}-{{Intrusive Load Monitoring}}; ,  2020; pp. 89--93.
+  {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
+  {Yokohama, Japan},  18.11. 2020; {{NILM}}'20, pp. 89--93.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3429390}{\detokenize{10.1145/3427771.3429390}}}.
 
 \bibitem[Devlin \em{et~al.}(2018)Devlin, Chang, Lee, and Toutanova]{devlin2018}
 Devlin, J.; Chang, M.W.; Lee, K.; Toutanova, K.
@@ -832,8 +933,9 @@ Devlin, J.; Chang, M.W.; Lee, K.; Toutanova, K.
   Odena]{zhang2019a}
 Zhang, H.; Goodfellow, I.; Metaxas, D.; Odena, A.
 \newblock Self-{{Attention Generative Adversarial Networks}}.
-\newblock  International {{Conference}} on {{Machine Learning}}. {PMLR},  2019,
-  pp. 7354--7363.
+\newblock  Proceedings of the 36th {{International Conference}} on {{Machine
+  Learning}}; {PMLR}: {Long Beach, California, USA},  2019; Vol.~97, pp.
+  7354--7363.
 
 \bibitem[Sudoso and Piccialli(2019)]{sudoso2019}
 Sudoso, A.M.; Piccialli, V.
@@ -905,8 +1007,16 @@ Mauch, L.; Yang, B.
   Bengio]{chung2015}
 Chung, J.; Kastner, K.; Dinh, L.; Goel, K.; Courville, A.C.; Bengio, Y.
 \newblock A Recurrent Latent Variable Model for Sequential Data.
-\newblock  Advances in Neural Information Processing Systems,  2015, pp.
-  2980--2988.
+\newblock  Advances in Neural Information Processing Systems. {Curran
+  Associates, Inc.},  2015, Vol.~28.
+
+\bibitem[Chen \em{et~al.}(2020)Chen, Wang, and Fan]{chen2020c}
+Chen, H.; Wang, Y.H.; Fan, C.H.
+\newblock A Convolutional Autoencoder-Based Approach with Batch Normalization
+  for Energy Disaggregation.
+\newblock {\em The Journal of Supercomputing} {\bf 2020}, {\em 77},~2961--2978.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s11227-020-03375-y}{\detokenize{10.1007/s11227-020-03375-y}}}.
 
 \bibitem[Kaselimi \em{et~al.}(2019)Kaselimi, Doulamis, Doulamis, Voulodimos,
   and Protopapadakis]{kaselimi2019a}
@@ -965,7 +1075,21 @@ Faustine, A.; Pereira, L.; Bousbiat, H.; Kulkarni, S.
 \newblock {{UNet}}-{{NILM}}: {{A Deep Neural Network}} for {{Multi}}-Tasks
   {{Appliances State Detection}} and {{Power Estimation}} in {{NILM}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
-  {{Non}}-{{Intrusive Load Monitoring}},  2020, pp. 84--88.
+  {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 84--88.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427859}{\detokenize{10.1145/3427771.3427859}}}.
+
+\bibitem[Kaselimi \em{et~al.}(2020)Kaselimi, Voulodimos, Protopapadakis,
+  Doulamis, and Doulamis]{kaselimi2020}
+Kaselimi, M.; Voulodimos, A.; Protopapadakis, E.; Doulamis, N.; Doulamis, A.
+\newblock {{EnerGAN}}: {{A Generative Adversarial Network}} for {{Energy
+  Disaggregation}}.
+\newblock  {{ICASSP}} 2020 - 2020 {{IEEE International Conference}} on
+  {{Acoustics}}, {{Speech}} and {{Signal Processing}} ({{ICASSP}}),  2020, pp.
+  1578--1582.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/ICASSP40776.2020.9054342}{\detokenize{10.1109/ICASSP40776.2020.9054342}}}.
 
 \bibitem[Hsu \em{et~al.}(2019)Hsu, Zeitoun, Lee, Katabi, and Jaakkola]{hsu2019}
 Hsu, C.Y.; Zeitoun, A.; Lee, G.H.; Katabi, D.; Jaakkola, T.
@@ -986,6 +1110,15 @@ Al~Zeidi, O.
 \newblock Deep {{Neural Networks}} for {{Non}}-{{Intrusive Load Monitoring}}.
 \newblock Master's {{Thesis}}, Monash University,  2018.
 
+\bibitem[Wang \em{et~al.}(2019)Wang, Kababji, Graham, and Srikantha]{wang2019b}
+Wang, J.; Kababji, S.E.; Graham, C.; Srikantha, P.
+\newblock Ensemble-{{Based Deep Learning Model}} for {{Non}}-{{Intrusive Load
+  Monitoring}}.
+\newblock  2019 {{IEEE Electrical Power}} and {{Energy Conference}} ({{EPEC}}),
+   2019, pp. 1--6.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/EPEC47565.2019.9074816}{\detokenize{10.1109/EPEC47565.2019.9074816}}}.
+
 \bibitem[Quek \em{et~al.}(2020)Quek, Woo, and Logenthiran]{quek2020}
 Quek, Y.T.; Woo, W.L.; Logenthiran, T.
 \newblock Load {{Disaggregation Using One}}-{{Directional Convolutional Stacked
@@ -1005,8 +1138,8 @@ Harell, A.; Makonin, S.; Bajic, I.V.
 Morgan, E.S.
 \newblock Applications of Deep Learning for Load Disaggregation in Residential
   Environments.
-\newblock Bachelor's thesis, Universidade Federal do Rio de Janeiro, Rio de
-  Janeiro \ldots, {Rio de Janeiro},  2017.
+\newblock Bachelor's thesis, Universidade Federal do Rio de Janeiro, {Rio de
+  Janeiro},  2017.
 
 \bibitem[Massidda \em{et~al.}(2020)Massidda, Marrocu, and Manca]{massidda2020}
 Massidda, L.; Marrocu, M.; Manca, S.
@@ -1031,7 +1164,10 @@ Yadav, A.; Sinha, A.; Saidi, A.; Trinkl, C.; Z{\"o}rner, W.
 \newblock {{NILM}} Based {{Energy Disaggregation Algorithm}} for {{Dairy
   Farms}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
-  {{Non}}-{{Intrusive Load Monitoring}},  2020, pp. 16--19.
+  {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 16--19.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427846}{\detokenize{10.1145/3427771.3427846}}}.
 
 \bibitem[Ahmed and Bons(2020)]{ahmed2020}
 Ahmed, S.; Bons, M.
@@ -1039,7 +1175,7 @@ Ahmed, S.; Bons, M.
   {{MobileNet}} Compressed by {{Tensorflow Lite}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
   {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
-  {New York, NY, USA},  2020; {{NILM}}'20, pp. 44--48.
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 44--48.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427852}{\detokenize{10.1145/3427771.3427852}}}.
 
@@ -1050,7 +1186,7 @@ Barber, J.; Cuay{\'a}huitl, H.; Zhong, M.; Luan, W.
   Sequence}}-to-{{Point Learning}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
   {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
-  {New York, NY, USA},  2020; {{NILM}}'20, pp. 11--15.
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 11--15.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3427845}{\detokenize{10.1145/3427771.3427845}}}.
 
@@ -1072,7 +1208,7 @@ Jones, R.; Klemenjak, C.; Makonin, S.; Baji{\'c}, I.V.
 \newblock Stop: {{Exploring Bayesian Surprise}} to {{Better Train NILM}}.
 \newblock  Proceedings of the 5th {{International Workshop}} on
   {{Non}}-{{Intrusive Load Monitoring}}; {Association for Computing Machinery}:
-  {New York, NY, USA},  2020; {{NILM}}'20, pp. 39--43.
+  {Yokohama, Japan},  2020; {{NILM}}'20, pp. 39--43.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1145/3427771.3429388}{\detokenize{10.1145/3427771.3429388}}}.
 
@@ -1108,6 +1244,24 @@ Xia, M.; Liu, W.; Wang, K.; Song, W.; Chen, C.; Li, Y.
 \newblock {\em Energies} {\bf 2019}, {\em 12},~1217.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/en12071217}{\detokenize{10.3390/en12071217}}}.
+
+\bibitem[Santos \em{et~al.}(2019)Santos, Freitas, and Aquino]{santos2019}
+Santos, E.G.; Freitas, C.G.S.; Aquino, A.L.L.
+\newblock A {{Deep Learning}} Approach for {{Energy Disaggregation}}
+  Considering {{Embedded Devices}}.
+\newblock  2019 {{IX Brazilian Symposium}} on {{Computing Systems Engineering}}
+  ({{SBESC}}),  2019, pp. 1--8.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/SBESC49506.2019.9046095}{\detokenize{10.1109/SBESC49506.2019.9046095}}}.
+
+\bibitem[Miao \em{et~al.}(2019)Miao, Zhao, Shi, and Zhang]{miao2019}
+Miao, N.; Zhao, S.; Shi, Q.; Zhang, R.
+\newblock Non-{{Intrusive Load Disaggregation Using Semi}}-{{Supervised
+  Learning Method}}.
+\newblock  2019 {{International Conference}} on {{Security}}, {{Pattern
+  Analysis}}, and {{Cybernetics}} ({{SPAC}}),  2019, pp. 17--22.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/SPAC49953.2019.237865}{\detokenize{10.1109/SPAC49953.2019.237865}}}.
 
 \bibitem[Min \em{et~al.}(2019)Min, Wen, Yang, Li, and Li]{min2019}
 Min, C.; Wen, G.; Yang, Z.; Li, X.; Li, B.
@@ -1343,11 +1497,13 @@ Ronneberger, O.; Fischer, P.; Brox, T.
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/978-3-319-24574-4_28}{\detokenize{10.1007/978-3-319-24574-4_28}}}.
 
 \bibitem[zot()]{zotero-8847}
-{{TensorFlow Hub}}.
+{{TensorFlow Hub}} - {{A}} Repository of Trained Machine Learning Models
+  (Www.Tensorflow.Org/Hub).
 
 \bibitem[202(2020)]{2020c}
 14th {{ACM International Conference}} on {{Distributed}} and {{Event}}-{{Based
-  Systems DEBS}} 2020 - {{Challenge}},  2020.
+  Systems DEBS}} 2020 - {{Challenge}}
+  (2020.Debs.Org/Call-for-Grand-Challenge-Solutions/),  2020.
 
 \bibitem[Ruder(2017)]{ruder2017}
 Ruder, S.
@@ -1360,7 +1516,9 @@ Ruder, S.
 \bibitem[Doukas(2019)]{doukas2019}
 Doukas, D.
 \newblock {{EU NILM Workshop}} 2019 - {{NILM}} Datasets, Benchmarking and
-  Evaluation,  2019.
+  Evaluation
+  (Www.Youtube.Com/Watch?V={{v5XoLtQH9Uw}}\&list={{PLJrF}}-{{gxa0ImryGeNtil}}-{{s9zPJOaV4w}}-{{Vy}}\&index=22\&t=0s),
+   2019.
 
 \bibitem[Ouali \em{et~al.}(2020)Ouali, Hudelot, and Tami]{ouali2020}
 Ouali, Y.; Hudelot, C.; Tami, M.
@@ -1381,8 +1539,18 @@ Rasmus, A.; Valpola, H.; Honkala, M.; Berglund, M.; Raiko, T.
 Tarvainen, A.; Valpola, H.
 \newblock Mean Teachers Are Better Role Models: {{Weight}}-Averaged Consistency
   Targets Improve Semi-Supervised Deep Learning Results.
-\newblock  Advances in Neural Information Processing Systems,  2017, pp.
-  1195--1204.
+\newblock  Proceedings of the 31st {{International Conference}} on {{Neural
+  Information Processing Systems}}; {Curran Associates Inc.}: {Red Hook, NY,
+  USA},  2017; {{NIPS}}'17, pp. 1195--1204.
+
+\bibitem[Miyato \em{et~al.}(2018)Miyato, Maeda, Koyama, and Ishii]{miyato2018}
+Miyato, T.; Maeda, S.i.; Koyama, M.; Ishii, S.
+\newblock Virtual Adversarial Training: A Regularization Method for Supervised
+  and Semi-Supervised Learning.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}
+  {\bf 2018}, {\em 41},~1979--1993.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1109/TPAMI.2018.2858821}{\detokenize{10.1109/TPAMI.2018.2858821}}}.
 
 \bibitem[Kuo \em{et~al.}(2020)Kuo, Ma, Huang, and Kira]{kuo2020}
 Kuo, C.W.; Ma, C.Y.; Huang, J.B.; Kira, Z.
@@ -1420,12 +1588,14 @@ Howard, A.G.; Zhu, M.; Chen, B.; Kalenichenko, D.; Wang, W.; Weyand, T.;
   Zhu]{howard2018}
 Howard, A.; Zhmoginov, A.; Chen, L.C.; Sandler, M.; Zhu, M.
 \newblock Inverted Residuals and Linear Bottlenecks: {{Mobile}} Networks for
-  Classification, Detection and Segmentation {\bf 2018}.
+  Classification, Detection and Segmentation.
+\newblock  {{CVPR}} 2018; ,  2018.
 
 \bibitem[Sze(2019)]{sze2019}
 Sze, V.
 \newblock Efficient {{Processing}} of {{Deep Neural Networks}}: From
-  {{Algorithms}} to {{Hardware Architectures}},  2019.
+  {{Algorithms}} to {{Hardware Architectures}}.
+\newblock  {{NeurIPS}} 2020; ,  2019.
 
 \bibitem[Batra \em{et~al.}(2013)Batra, Gulati, Singh, and
   Srivastava]{batra2013}
@@ -1449,23 +1619,27 @@ Kriechbaumer, T.; Jacobsen, H.A.
 \bibitem[Cohen and Welling(2016)]{cohen2016}
 Cohen, T.; Welling, M.
 \newblock Group Equivariant Convolutional Networks.
-\newblock  International Conference on Machine Learning,  2016, pp. 2990--2999.
+\newblock  Proceedings of {{The}} 33rd {{International Conference}} on
+  {{Machine Learning}}; {PMLR}: {New York, New York, USA},  2016; Vol.~48, {\em
+  \{\vphantom\}{{Proceedings}} of {{Machine Learning Research}}}, pp.
+  2990--2999.
 
 \bibitem[Zaheer \em{et~al.}(2017)Zaheer, Kottur, Ravanbakhsh, Poczos,
   Salakhutdinov, and Smola]{zaheer2017}
 Zaheer, M.; Kottur, S.; Ravanbakhsh, S.; Poczos, B.; Salakhutdinov, R.R.;
   Smola, A.J.
 \newblock Deep Sets.
-\newblock  Advances in Neural Information Processing Systems,  2017, pp.
-  3391--3401.
+\newblock  Advances in Neural Information Processing Systems; {Curran
+  Associates, Inc.}: {Long Beach, CA, USA},  2017; Vol.~30, pp. 3391--3401.
 
 \bibitem[McMahan \em{et~al.}(2017)McMahan, Moore, Ramage, Hampson, and
   y~Arcas]{mcmahan2017}
 McMahan, B.; Moore, E.; Ramage, D.; Hampson, S.; y~Arcas, B.A.
 \newblock Communication-{{Efficient Learning}} of {{Deep Networks}} from
   {{Decentralized Data}}.
-\newblock  Artificial {{Intelligence}} and {{Statistics}}. {PMLR},  2017, pp.
-  1273--1282.
+\newblock  Proceedings of the 20th {{International Conference}} on {{Artificial
+  Intelligence}} and {{Statistics}}; {PMLR}: {Fort Lauderdale, Florida, USA},
+  2017; Vol.~54, pp. 1273--1282.
 
 \bibitem[Kairouz \em{et~al.}(2019)Kairouz, McMahan, Avent, Bellet, Bennis,
   Bhagoji, Bonawitz, Charles, Cormode, Cummings, D'Oliveira, Rouayheb, Evans,
